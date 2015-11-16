@@ -1,0 +1,16 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+
+canvas {
+	border:1px solid #ccc;
+	margin:50px;
+}
+
+#graphic-resources img {
+	display:none;
+}
